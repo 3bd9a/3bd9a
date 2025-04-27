@@ -1,4 +1,7 @@
-<!-- Switch Language: [🇬🇧 English](#en) | [🇸🇦 العربية](#ar) -->
+<p align="center">
+  <a href="#en"><img src="https://img.shields.io/badge/English-🇬🇧-blue?style=for-the-badge" alt="English"></a>
+  <a href="#ar"><img src="https://img.shields.io/badge/العربية-🇸🇦-green?style=for-the-badge" alt="العربية"></a>
+</p>
 
 # 🇬🇧 About Me <a name="en"></a>
 
@@ -33,6 +36,11 @@ I'm currently exploring Linux systems, programming basics, and cybersecurity fun
 - GitHub: [3bd9a](https://github.com/3bd9a)
 
 ---
+
+<p align="center">
+  <a href="#ar"><img src="https://img.shields.io/badge/العربية-🇸🇦-green?style=for-the-badge" alt="العربية"></a>
+  <a href="#en"><img src="https://img.shields.io/badge/English-🇬🇧-blue?style=for-the-badge" alt="English"></a>
+</p>
 
 # 🇸🇦 نبذة عني <a name="ar"></a>
 
